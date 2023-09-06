@@ -1,9 +1,4 @@
 - 👋 Hi, I’m @AlattasFatima
-- 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning Java
-- 📫 You can reach me at AlattasFatima22@gmail.com 
-
-<!---
-AlattasFatima/AlattasFatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Full stack developing 
+- 🌱 I’m currently learning Java and HTML
+- 📫 You can reach me at AlattasFatima22@gmail.com & @FOAlattas at any social media platform
