@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlattasFatima
-- 👀 I’m interested in Full stack developing 
+- 👀 I’m interested in App developing 
 - 🌱 I’m currently learning Java and HTML
 - 📫 You can reach me at AlattasFatima22@gmail.com & @FOAlattas at any social media platform
