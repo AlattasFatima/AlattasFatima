@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlattasFatima
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently expanding my knowledge of HTML & CSS and learning JavaScript
+- 🌱 I’m currently expanding my knowledge of ReactJS and Tailwind!
 - 📫 You can reach me at AlattasFatima22@gmail.com!
